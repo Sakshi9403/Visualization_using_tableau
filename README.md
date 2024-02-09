@@ -18,3 +18,7 @@
 ## Filters:
 
 - All sheets share common filters for month, seat type, traveler type, continent, and aircraft group. This allows users to consistently explore the data across different sheets based on their specific interests.
+
+## Dashboard:
+
+![image](./Image/image1.png)

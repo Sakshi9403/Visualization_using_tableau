@@ -21,4 +21,4 @@
 
 ## Dashboard:
 
-![image](./Image/image1.png)
+![image](./Image/image-1.png)
